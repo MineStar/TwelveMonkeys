@@ -1,0 +1,4 @@
+name: TwelveMonkeys
+main: de.minestar.twelvemonkeys.core.TwelveMonkeysCore
+version: ${pom.version}
+depend: [MineStarLibrary, MinestarCore]
